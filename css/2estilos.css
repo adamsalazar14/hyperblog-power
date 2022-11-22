@@ -1,6 +1,22 @@
 body
 {
-    color: aquamarine;
+    color: brown;
     text-align: center;
     font-family: "arial";
+    font-size: 16px;
+    margin: 1;
+    padding: 1;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 70px;
 }
